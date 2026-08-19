@@ -1,0 +1,8 @@
+{
+  "name": "TradeAI v2 — Research Lab",
+  "description": "Scientific quantitative research, strategy versioning, walk-forward validation, benchmark suites, and paper trading lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
