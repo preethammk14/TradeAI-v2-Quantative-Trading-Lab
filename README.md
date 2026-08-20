@@ -160,18 +160,10 @@ git clone https://github.com/preethammk14/TradeAI-v2-Quantitative-Trading-Lab.gi
 cd TradeAI-v2-Quantitative-Trading-Lab
 ## 📸 Project Screenshots
 
-### 📈 SMA Golden / Death Crossover Backtest
+![SMA Golden Death Crossover Backtest](Screenshot%202026-08-19%20184330.png)
 
-![SMA Golden Death Crossover Backtest](screenshot%202026-08-19%20184330.png)
+![MACD Trend Signal Crossover Backtest](Screenshot%202026-08-19%20184406.png)
 
-### 📊 MACD Trend & Signal Crossover Backtest
+![Walk-Forward Validation](Screenshot%202026-08-19%20184756.png)
 
-![MACD Trend Signal Crossover Backtest](screenshot%202026-08-19%20184406.png)
-
-### 🧪 Walk-Forward Validation Results
-
-![Walk-Forward Validation](screenshot%202026-08-19%20184756.png)
-
-### 🏆 Validation Trading Verdict
-
-![Validation Trading Verdict](screenshot%202026-08-19%20184929.png)
+![Validation Trading Verdict](Screenshot%202026-08-19%20184929.png)
