@@ -159,7 +159,7 @@ Clone the repository:
 git clone
 https://github.com/preethammk14/TradeAI-v2-Quantitative-Trading-Lab.git
 cd TradeAI-v2-Quantitative-Trading-Lab
-***                    ***
+  ```                
 ## 📸 Project Screenshots
 
 ### 📈 SMA Golden / Death Crossover Backtest
